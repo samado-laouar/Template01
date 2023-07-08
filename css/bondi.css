@@ -166,6 +166,7 @@ body {
     background-color: var(--dark-color);
   }
   .footer .copyright > span {
+    cursor: pointer;
     color: var(--green-color);
   }
   .footer .copyright div span {

@@ -188,4 +188,7 @@ body {
   .footer .youtube {
     background-color: #ff0000;
   }
+  a.text-white-50:hover {
+    text-decoration: none;
+}
   /* End Footer */    
